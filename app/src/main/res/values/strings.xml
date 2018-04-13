@@ -2,6 +2,9 @@
     <string name="app_name">FireBaseLearningQin180412</string>
     <string name="input_name_here">Input name here</string>
     <string name="add_artists">Add artists</string>
+    <string name="enter_track_name">Enter track name</string>
+    <string name="track">TRACK</string>
+    <string name="explanation">Tap on an artist to add and view tracks</string>
     <string-array name="genres">
         <item>Rock</item>
         <item>Sufi</item>
