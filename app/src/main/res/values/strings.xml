@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FireBaseLearningQin180412</string>
+    <string name="input_name_here">Input name here</string>
+    <string name="add_artists">Add artists</string>
+    <string-array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Folk</item>
+    </string-array>
 </resources>
